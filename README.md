@@ -1,2 +1,2 @@
-# Prepcourse-Henrry
-Este es un repositorio de Prueba para el Prepcourse
+prueba de como crear un repositorio 
+ y como clonarlo en mi escritorio local
